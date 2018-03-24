@@ -1,0 +1,16 @@
+Are You Kidding Me?
+0
+5
+-------questions-------
+~1
+30
+Which of the following is the correct order of evaluation for the below expression?@z = x + y * z / 4 % 2 - 1@1) * / % + - =@2) = * / % + -@3) / * % - + =@4) * % / - + =
+1
+~2
+30
+Which of the following special symbol allowed in a variable name?@1) * (asterisk)@2) | (pipeline)@3) - (hyphen)@4) _ (underscore)
+4
+~3
+30
+Which of the following is the correct usage of conditional operators used in C?@1) a>b ? c=30 : c=40;@2) a>b ? c=30;@3) max = a>b ? a>c?a:c:b>c?b:c@4) return (a>b)?(a:b)
+3

@@ -1,0 +1,16 @@
+Escalate Quickly
+20
+25
+-------questions-------
+~1
+15
+Which header file should be included to use functions like malloc() and calloc()?@1) memory.h@2) stdlib.h@3) string.h@4) dos.h
+2
+~2
+25
+#define MAXROW 3@#define MAXCOL 4@@void main()@{@    int **p;@    p = (int **) malloc(MAXROW * sizeof(int*));@}@@How will you free the memory?@1) memfree(int p);@2) dealloc(p);@3) malloc(p, 0);@4) free(p);
+4
+~3
+20
+Specify the 2 library functions to dynamically allocate memory?@1) malloc() and memalloc()@2) alloc() and memalloc()@3) malloc() and calloc()@4) memalloc() and faralloc()
+3

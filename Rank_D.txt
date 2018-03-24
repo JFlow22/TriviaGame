@@ -1,0 +1,16 @@
+Don't Let Me Down
+15
+20
+-------questions-------
+~1
+25
+int *ptr[30];@@What do the following declaration signify?@1) ptr is a pointer to an array of 30 integer pointers.@2) ptr is a array of 30 pointers to integers.@3) ptr is a array of 30 integer pointers.@4) ptr is a array 30 pointers.
+2
+~2
+15
+int (*pf)();@@What do the following declaration signify?@1) pf is a pointer to function.@2) pf is a function pointer.@3) pf is a pointer to a function which return int@4) pf is a function of pointer variable.
+3
+~3
+15
+In which header file does one find isalpha()@1) conio.h@2) ctype.h@3) stdio.h@4) stdlib.h
+2

@@ -1,0 +1,16 @@
+Good Lock!
+30
+35
+-------questions-------
+~1
+15
+Friend keyword can be used..@1) in the class to allow access to another class.@2) for a function in the public section of a class.@3) for a function in the private section of a class.@4) on main().
+4
+~2
+15
+Which of the following two entities can be connected by the dot operator?@1) A class member and a class object.@2) A class object and a class.@3) A class and a member of that class.@4) A class object and a member of that class.
+4
+~3
+15
+When run on a computer, will a recursive function without an end condition ever quit?@1) Compiler-Specific (Some compilers can convert these functions to infinite loops)@2) No@3) Yes@4) Based on the computer
+1

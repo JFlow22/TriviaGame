@@ -1,0 +1,16 @@
+Insanity
+40
+45
+-------questions-------
+~1
+20
+Which of the following models follow a purely sequential approach?@1) Waterfall model@2) Spiral model@3) Iterfall development@4) Iterative development
+1
+~2
+20
+RUP and PSP stand for@1) Realtime unified process and Project software process@2) Realtime unified process and Personal software process@3) Rational Unified Process and Project software process@4) Rational Unified Process and Personal software process
+4
+~3
+30
+Post implementation review is@1) reviewing the risk baseline@2) reviewing the traceability matrix@3) reviewing the impact on customers@4) None of the above
+2

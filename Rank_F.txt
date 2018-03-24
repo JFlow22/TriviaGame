@@ -1,0 +1,16 @@
+Forcing You To Think
+25
+30
+-------questions-------
+~1
+20
+All of the structure, union and enumeration let you...@1) All of them let you define new values@2) All of them let you define new data types@3) All of them let you define new pointers@4) All of them let you define new structures
+2
+~2
+30
+class Birds {};@class Peacock:protected Birds{};@@What happens when we try to compile the code?@1) Birds not defined - fail compile.@2) Peacock defined - fail compile.@3) syntax error.@4) compile succesfully.
+4
+~3
+20
+What is the equivalent of Pascal's Real?@1) unsigned int@2) char@3) float@4) double
+3

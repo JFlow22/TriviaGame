@@ -1,0 +1,16 @@
+What Is Your Name?
+10
+15
+-------questions-------
+~1
+10
+In which numbering system can the binary number 1011011111000101 be easily converted to?@1) Decimal system@2) Hexadecimal system@3) Octal system@4) No need to convert
+2
+~2
+10
+Which bitwise operator is suitable for turning off a particular bit in a number?@1) && operator@2) & operator@3) || operator@4) ! operator
+2
+~3
+10
+Which of the following is not a valid declaration for main()?@1) int main()@2) int main(int argc, char *argv[])@3) They both work@4) void main
+3

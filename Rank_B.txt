@@ -1,0 +1,16 @@
+Bet You Can
+5
+10
+-------questions-------
+~1
+40
+What the system will show for the command printf("I Know C!"); ?@1) "printf("I Know C!");"@2) I Know C!@3) "I Know C!"@4) printf(success)
+2
+~2
+40
+Which of the following is the correct order if calling functions in the below code?@a = f1(23, 14) * f2(12/4) + f3();@1) f1, f2, f3@2) f3, f2, f1@3) Order may vary from compiler to compiler@4) None of above
+3
+~3
+40
+Which of the following operations can be performed on the file "NOTES.TXT" using the below code?@@FILE *fp;@fp = fopen("NOTES.TXT", "r+");@@1) Reading@2) Writing@3) Appending@4) Read and Write
+4
